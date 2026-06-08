@@ -12,24 +12,6 @@ i'm interested in:
 - gpus
 - neovim
 
----
-
-## github stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cattermelon1234&show_icons=true&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cattermelon1234&layout=compact&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=cattermelon1234&hide_border=true" />
-</p>
-
----
-
 ## contribution graph
 
 <p align="center">
