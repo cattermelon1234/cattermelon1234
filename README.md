@@ -12,8 +12,10 @@ i'm interested in:
 - gpus
 - neovim
 
+<!--
 ## contribution graph
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/cattermelon1234/cattermelon1234/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
+-->
