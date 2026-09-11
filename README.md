@@ -1,3 +1,3 @@
 # hi, i'm brian 👋
 
-i study cs @ penn. interested in ml, systems, inference
+i study cs @ penn. interested in ml, ull, systems, inference
